@@ -1,16 +1,16 @@
-### Hi there 👋
+# Jonas - Developer and Linux Server Admin 🚀
 
-<!--
-**johnflexgang/johnflexgang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub! I'm Jonas, a Danish dev with a passion for:
 
-Here are some ideas to get you started:
+## Skills:
+- Diverse coding and frameworks
+- Linux server maintenance, optimization, troubleshooting
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Technical Focus:
+Delving into server architecture intricacies for efficient performance and seamless operations.
+
+## Leisure Pursuits:
+Philosophical walks during free time. A tech enthusiast blending coding with an active cycling lifestyle.
+
+## Goals:
+Spearheading open-source projects, mastering cutting-edge technologies. Let's code the future together!
